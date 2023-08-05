@@ -43,7 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="charReplace.cs" />
+    <Compile Include="realPrime.cs" />
+    <Compile Include="strSort.cs" />
+    <Compile Include="HCDivi.cs" />
+    <Compile Include="rhombus.cs" />
+    <Compile Include="triangle.cs" />
+    <Compile Include="rightTri.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
